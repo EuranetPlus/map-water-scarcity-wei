@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "L'Europe va-t-elle manquer d'eau ?",
+  "subtitle": "En 2023, 28 % du territoire de l'UE a connu au moins une saison de pénurie d'eau, Chypre, Malte et la Grèce enregistrant les proportions les plus élevées. Bien que les prélèvements d'eau dans l'UE aient diminué de 14 % entre 2000 et 2023, la superficie touchée par la pénurie d'eau n'a pas globalement reculé.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les conditions de pénurie d'eau sont évaluées à l'aide de l'indice saisonnier d'exploitation de l'eau Plus (WEI+), qui compare l'utilisation de l'eau aux ressources en eau douce renouvelables.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Agence européenne pour l'environnement (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
