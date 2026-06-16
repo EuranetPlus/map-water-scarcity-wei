@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy Europie zabraknie wody?",
+  "subtitle": "Niedobór wody dotknął 28% terytorium UE przez co najmniej jeden sezon w 2023 roku, przy czym najwyższy odsetek odnotowano na Cyprze, Malcie i w Grecji. Chociaż pobór wody w UE spadł o 14% między 2000 a 2023 rokiem, obszar dotknięty niedoborem wody ogólnie nie zmniejszył się.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Ocenę niedoboru wody przeprowadza się przy użyciu sezonowego wskaźnika eksploatacji wody Plus (WEI+), który porównuje zużycie wody z odnawialnymi zasobami wody słodkiej.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Europejska Agencja Środowiska (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
