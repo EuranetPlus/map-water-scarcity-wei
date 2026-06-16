@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Dôjde Európe voda?",
+  "subtitle": "Nedostatok vody postihol v roku 2023 počas aspoň jednej sezóny 28 % územia EÚ, pričom najvyšší podiel zaznamenali Cyprus, Malta a Grécko. Aj keď odber vody v EÚ medzi rokmi 2000 a 2023 klesol o 14 %, plocha postihnutá nedostatkom vody sa celkovo nezmenšila.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Nedostatok vody sa hodnotí pomocou sezónneho indexu využívania vody (WEI+), ktorý porovnáva spotrebu vody s obnoviteľnými zdrojmi sladkej vody.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Európska environmentálna agentúra (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
