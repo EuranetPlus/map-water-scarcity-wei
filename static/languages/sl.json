@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Bo Evropi zmanjkalo vode?",
+  "subtitle": "Pomanjkanje vode je leta 2023 v vsaj eni sezoni prizadelo 28 % ozemlja EU, pri čemer so Ciper, Malta in Grčija zabeležili najvišje deleže. Čeprav se je odvzem vode v EU med letoma 2000 in 2023 zmanjšal za 14 %, se območje, ki ga je prizadelo pomanjkanje vode, na splošno ni zmanjšalo.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Pomanjkanje vode se ocenjuje z uporabo sezonskega indeksa izkoriščanja vode Plus (WEI+), ki primerja porabo vode z obnovljivimi viri sladke vode.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Evropska agencija za okolje (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
