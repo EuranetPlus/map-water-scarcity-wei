@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Ar Europai pritrūks vandens?",
+  "subtitle": "Vandens trūkumas 2023 m. bent vieną sezoną paveikė 28 % ES teritorijos, o didžiausia dalis užfiksuota Kipre, Maltoje ir Graikijoje. Nors vandens gavyba ES nuo 2000 iki 2023 m. sumažėjo 14 %, vandens trūkumo paveikta teritorija apskritai nesumažėjo.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Vandens trūkumo sąlygos vertinamos naudojant sezoninį vandens eksploatavimo indeksą plius (WEI+), kuris lygina vandens naudojimą su atsinaujinančiais gėlo vandens ištekliais.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Europos aplinkos agentūra (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
