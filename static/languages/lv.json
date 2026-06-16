@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Vai Eiropai beigsies ūdens?",
+  "subtitle": "Ūdens trūkums 2023. gadā vismaz vienā sezonā skāra 28% ES teritorijas, un vislielākais īpatsvars bija Kiprā, Maltā un Grieķijā. Lai gan ūdens ieguve ES laikā no 2000. līdz 2023. gadam samazinājās par 14%, ūdens trūkuma skartā teritorija kopumā nav samazinājusies.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Ūdens trūkuma apstākļi tiek novērtēti, izmantojot sezonālo ūdens izmantošanas indeksu Plus (WEI+), kas salīdzina ūdens izmantošanu ar atjaunojamiem saldūdens resursiem.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eiropas Vides aģentūra (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
