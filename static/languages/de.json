@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wird Europa das Wasser ausgehen?",
+  "subtitle": "Wasserknappheit betraf im Jahr 2023 mindestens eine Saison lang 28 % des EU-Gebiets, wobei Zypern, Malta und Griechenland die höchsten Anteile verzeichneten. Obwohl die Wasserentnahme in der EU zwischen 2000 und 2023 um 14 % zurückging, hat sich die von Wasserknappheit betroffene Fläche insgesamt nicht verringert.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Bedingungen der Wasserknappheit werden mithilfe des saisonalen Water Exploitation Index Plus (WEI+) bewertet, der den Wasserverbrauch mit erneuerbaren Süßwasserressourcen vergleicht.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Europäische Umweltagentur (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
