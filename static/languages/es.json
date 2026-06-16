@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Se quedará Europa sin agua?",
+  "subtitle": "La escasez de agua afectó al 28 % del territorio de la UE durante al menos una temporada en 2023, registrándose los porcentajes más altos en Chipre, Malta y Grecia. Si bien la extracción de agua en la UE disminuyó un 14 % entre 2000 y 2023, la superficie afectada por la escasez de agua no se redujo en general.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Las condiciones de escasez de agua se evalúan mediante el Índice de Explotación del Agua Plus (WEI+), que compara el uso del agua con los recursos renovables de agua dulce.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Agencia Europea de Medio Ambiente (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
