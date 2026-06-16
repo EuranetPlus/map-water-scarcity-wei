@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Va rămâne Europa fără apă?",
+  "subtitle": "Deficitul de apă a afectat 28% din teritoriul UE în timpul a cel puțin unui sezon în 2023, Cipru, Malta și Grecia înregistrând cele mai mari ponderi. Chiar dacă captarea apei în UE a scăzut cu 14% între 2000 și 2023, suprafața afectată de deficitul de apă nu a scăzut în general.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Condițiile de deficit de apă sunt evaluate folosind Indicele sezonier de exploatare a apei Plus (WEI+), care compară utilizarea apei cu resursele regenerabile de apă dulce.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Agenția Europeană de Mediu (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
