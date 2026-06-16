@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Se tispiċċa l-ilma fl-Ewropa?",
+  "subtitle": "L-iskarsezza tal-ilma affettwat 28% tat-territorju tal-UE matul mill-inqas staġun wieħed fl-2023, b'Ċipru, Malta u l-Greċja jirreġistraw l-ogħla ishma. Anke jekk l-astrazzjoni tal-ilma fl-UE naqset b'14% bejn l-2000 u l-2023, iż-żona affettwata mill-iskarsezza tal-ilma ma naqsitx b'mod ġenerali.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-kundizzjonijiet tal-iskarsezza tal-ilma huma vvalutati bl-użu tal-Indiċi tal-Isfruttament tal-Ilma staġjonali Plus (WEI+), li jqabbel l-użu tal-ilma mar-riżorsi rinnovabbli tal-ilma ħelu.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Aġenzija Ewropea għall-Ambjent (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
