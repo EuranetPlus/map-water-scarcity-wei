@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Zal Europa zonder water komen te zitten?",
+  "subtitle": "In 2023 werd 28% van het EU-grondgebied gedurende ten minste één seizoen getroffen door waterschaarste, waarbij Cyprus, Malta en Griekenland de grootste percentages noteerden. Hoewel de waterwinning in de EU tussen 2000 en 2023 met 14% daalde, is het totale gebied dat door waterschaarste werd getroffen niet afgenomen.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De omstandigheden met betrekking tot waterschaarste worden beoordeeld aan de hand van de seizoensgebonden Water Exploitation Index Plus (WEI+), die het watergebruik vergelijkt met de hernieuwbare zoetwaterbronnen.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees Milieuagentschap (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
