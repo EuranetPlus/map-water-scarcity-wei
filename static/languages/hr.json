@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Hoće li Europa ostati bez vode?",
+  "subtitle": "Nestašica vode pogodila je 28% teritorija EU-a tijekom barem jedne sezone u 2023. godini, a Cipar, Malta i Grčka zabilježili su najveće udjele. Iako je zahvaćanje vode u EU-u palo za 14% između 2000. i 2023., područje pogođeno nestašicom vode nije se ukupno smanjilo.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Uvjeti nestašice vode procjenjuju se pomoću sezonskog indeksa iskorištavanja vode Plus (WEI+), koji uspoređuje potrošnju vode s obnovljivim resursima slatke vode.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Europska agencija za okoliš (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
